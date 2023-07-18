@@ -1,0 +1,91 @@
+{
+  "users": {
+    "6288294029936@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285774523785@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285171230159@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6287798246641@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50
+    }
+  },
+  "group": {},
+  "chats": {
+    "6288294029936@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false
+    },
+    "6285774523785@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false
+    },
+    "655664646@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false
+    },
+    "6285171230159@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false
+    },
+    "120363161974478060@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false
+    }
+  },
+  "tebakgambar": [],
+  "database": {},
+  "settings": {
+    "6288294029936@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    },
+    "6285774523785@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    },
+    "6285171230159@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    }
+  },
+  "donate": {},
+  "others": {},
+  "sticker": {},
+  "game": {},
+  "anonymous": {}
+}
